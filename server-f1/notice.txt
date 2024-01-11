@@ -1,2 +1,1 @@
-- Fix lỗi get token
-- Thêm tính năng buff folow
+- Fix một số lỗi 
