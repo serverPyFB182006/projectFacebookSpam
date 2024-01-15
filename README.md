@@ -1,0 +1,11 @@
+# SERVER CHECK UPDATE TOOL
+
+# F1 - SPAM FACEBOOK
+# F2 - SPAM LINK FACEBOOK
+# F4 - ORDER TOOL WEB (MEMBER)
+
+# NAME DEFAULT {app.exe}
+# NAME VERSION NEW {__version__.txt}
+# NAME NOTICE FIX {notice.txt}
+
+__by__ @dlam.
