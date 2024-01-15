@@ -1,1 +1,5 @@
 - Sửa lỗi buff dư mắt khi order
+- Thêm định dạng nhập cho clone 
+    + Cookie
+    + Cookie|User-agent
+- Thêm Time Out Request
