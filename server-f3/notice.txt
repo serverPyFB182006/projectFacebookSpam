@@ -1,1 +1,1 @@
-- Fix 1 số lỗi
+- Sửa lỗi buff dư mắt khi order
