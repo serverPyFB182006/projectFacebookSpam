@@ -1,1 +1,3 @@
-- Fix một số lỗi 
+- new update GET USER-AGENT HISTORY cho account
+- Limit Die Account
+- Update Auto Fill Type input .
